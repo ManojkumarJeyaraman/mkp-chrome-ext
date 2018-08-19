@@ -8,6 +8,12 @@ body {
     width: 384px;
 }
 
+.btn-no-bg{
+    border: none;
+    background-color: white 
+}
+
+
 .hr{margin:5px 0;}
 .accordion-group{margin-bottom:10px;border-radius:0;}
 .accordion-toggle{
@@ -22,7 +28,7 @@ body {
 
 .accordion-heading .accordion-toggle {
     display: block;
-    padding: 8px 15px;
+    padding: 2px 15px;
 }
 
 
